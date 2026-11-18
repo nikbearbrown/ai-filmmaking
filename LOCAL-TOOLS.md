@@ -15,7 +15,7 @@ Checked 2026-11-06 on Bear's Mac (darwin, zsh).
 - Its ffmpeg has **no libx264**. Encode with `prores_ks` (files are huge: 3 s of 4K ProRes HQ = 255 MB) or, better, write `-f yuv4mpegpipe -` and pipe into `/opt/homebrew/bin/ffmpeg` with libx264.
 - Tested: `-vf "tvai_up=model=prob-4:scale=2:blend=0.2"` took a 1928x1072 clip to 3856x2144; 3 s took 19 s. Roughly 6 s of compute per second of footage.
 - Script: scratchpad `assemble4k.sh` (upscale each clip, normalize to 3840x2160 at 24 fps, concatenate, fade). Copy it into this folder if it proves good.
-- Right for photographic or photoreal footage. Wrong for flat vector art, where it degrades the image (see /Users/bear/Documents/CoWork/bear-textbooks/books/brutalist.art/RENDER-4K-AND-UPLOAD.md).
+- Right for photographic or photoreal footage. Wrong for flat vector art, where it degrades the image (see [brutalist.art/RENDER-4K-AND-UPLOAD.md](https://github.com/nikbearbrown/brutalist.art/blob/main/RENDER-4K-AND-UPLOAD.md)).
 
 ## Higgsfield (MCP)
 
@@ -28,5 +28,5 @@ Checked 2026-11-06 on Bear's Mac (darwin, zsh).
 
 - ffmpeg and ffprobe: `/opt/homebrew/bin`. Python with PIL for contact sheets (use `python3 -I` for scripts that only need the standard library and PIL).
 - Narration: Liam, Kokoro `am_onyx`, rules in the Brutalist toolkit (`books/CLAUDE.md`). Not re-asked.
-- YouTube: token in /Users/bear/Documents/CoWork/bear-textbooks/books/youtube/credentials/nikbearbrown (channel UCg0cw2ouRhQ8dr114yGp0mA). Upload quota 100 per day. Descriptions cannot contain angle brackets. Needs plain `python3`, not `-I`.
+- YouTube: token in `books/youtube/credentials/nikbearbrown` (local, not on GitHub) (channel UCg0cw2ouRhQ8dr114yGp0mA). Upload quota 100 per day. Descriptions cannot contain angle brackets. Needs plain `python3`, not `-I`.
 - macOS screenshot names contain U+202F before AM or PM; use globs, never typed names.

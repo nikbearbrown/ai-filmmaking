@@ -2,8 +2,8 @@
 
 **Author:** Nik Bear Brown
 **Status:** Phase 0 (Blueprint) draft, 2026-11-16. Synthesized by the agent from the pantry, Bear's request, and the real Galen film work. **GATE 0 is not signed.** Review before any research or drafting.
-**Course:** *AI Filmmaking*, for trained filmmakers like Galen. Revised 2026-11-17 after Bear's call with Galen, and moved the same day into its own repo, [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking). The sister course for a general audience is *Agentic Filmmaking*: [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/BLUEPRINT.md](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/BLUEPRINT.md).
-**Companion file:** the chapter-level table of contents is in [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/outline.md](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/outline.md).
+**Course:** *AI Filmmaking*, for trained filmmakers like Galen. Revised 2026-11-17 after Bear's call with Galen, and moved the same day into its own repo, [nikbearbrown/ai-filmmaking](https://github.com/nikbearbrown/ai-filmmaking). The sister course for a general audience is *Agentic Filmmaking*: [BLUEPRINT.md](BLUEPRINT.md).
+**Companion file:** the chapter-level table of contents is in [outline.md](outline.md).
 
 ---
 
@@ -13,7 +13,7 @@
   - what the model needs to produce it;
   - what the model does by default, and how to override that;
   - what only the filmmaker can judge.
-- **Two courses, two repos (Bear, 2026-11-17):** this one, *AI Filmmaking*, is for filmmakers like Galen and is the one being worked on. The other, *Agentic Filmmaking*, is for a general audience without a film background, who may know ChatGPT and a little Midjourney or Higgsfield. It spends much more time on story and filmmaking, and on why they matter. Its starting plan is in [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book).
+- **Two courses, two repos (Bear, 2026-11-17):** this one, *AI Filmmaking*, is for filmmakers like Galen and is the one being worked on. The other, *Agentic Filmmaking*, is for a general audience without a film background, who may know ChatGPT and a little Midjourney or Higgsfield. It spends much more time on story and filmmaking, and on why they matter. Its starting plan is in [nikbearbrown/agentic-filmmaking-book](https://github.com/nikbearbrown/agentic-filmmaking-book).
 - **The thesis (Bear, 2026-11-16):** the filmmaker conducts; the agent plays. The agent generates, logs and prices options. Every choice of what to keep, reject or change belongs to the filmmaker.
 - **The structure:** an introduction, 13 chapters in four parts, and a capstone. The old Chapters 1 to 3 (film language, story, screenplay) are now one chapter: the agent's notes on a finished screenplay and its conversion into a shot table. The chapters run in cost order: words, then stills (cheap drafts first, then paid hero stills), then motion and sound, then the cut.
 - **What is still open:** Galen's consent to be the public running case, student cost, scope (fiction or documentary too), the playlist name, where the pantry went, whether the two courses share one core of chapters, and several missing figures. Each is tagged where it appears. No research and no chapters yet.
@@ -35,7 +35,7 @@ Thesis: the filmmaker conducts; the agent plays. The agent generates, logs and p
 - **The agent is the hands.** What the course removes is the human translator standing between the filmmaker's vision and the agent, not the delegation. The pitch is "direct it yourself", not "do it yourself".
 - **Bear's role ends at teaching.** Bear will not be Galen's hands, or relay "change this, update that" between Galen and the agent. The course exists so the filmmaker talks to the agent directly.
 
-**The question behind it** (from [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/README.md](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/README.md)): can a filmmaker with no Hollywood budget now make the film they have carried for years? Galen has spent most of his time raising money. The realistic first win is a finished opening scene that helps raise money for the rest. That is what the capstone builds.
+**The question behind it** (from [README.md](README.md)): can a filmmaker with no Hollywood budget now make the film they have carried for years? Galen has spent most of his time raising money. The realistic first win is a finished opening scene that helps raise money for the rest. That is what the capstone builds.
 
 Target reader: a trained filmmaker who already has a finished screenplay and is new to AI. They know story, conflict, script format, coverage and storyboards. What they lack is the technical path from that screenplay to something an agent can generate. Galen is both the target reader and the running case: he has a master's degree in film and a full script. The translation from the filmmaker's craft to what a model needs is what separates this course from tool tutorials. [CONFIRMED: Bear, 2026-11-17, after a call with Galen]
 
@@ -51,7 +51,7 @@ Target reader: a trained filmmaker who already has a finished screenplay and is 
 | **Part I** | One chapter: the agent's notes on a finished screenplay, and its conversion into a shot table. | Three chapters: how films tell stories; story, conflict and structure; writing the screenplay. |
 | **First part of each chapter** | *From your craft to the model:* what the model needs to produce what the filmmaker already knows. | *The craft, taught as vocabulary:* the words for describing the picture precisely enough for a model to produce it. |
 | **Length** | Introduction, 13 chapters, capstone. | Introduction, 15 chapters, capstone (as planned 2026-11-16). |
-| **Repo** | [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking) | [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book) |
+| **Repo** | [nikbearbrown/ai-filmmaking](https://github.com/nikbearbrown/ai-filmmaking) | [nikbearbrown/agentic-filmmaking-book](https://github.com/nikbearbrown/agentic-filmmaking-book) |
 | **Status** | Being worked on. | Its starting plan is the 2026-11-16 plan; not revised yet. |
 
 **Shared core (proposed by the agent, 2026-11-17):** Parts II to IV could be one set of chapters for both courses. Only Part I and the first part of each chapter would differ. "The agent does it", "the +1" and "On the set" would be shared, and the exercises could differ by reader. This keeps the courses from drifting apart. [NEEDS HUMAN INPUT: confirm the shared core, or keep the two courses fully separate.]
@@ -125,7 +125,7 @@ Arc statement: the course takes the filmmaker from *a finished screenplay* to *a
 
 ## Pantry map: which source feeds which chapter
 
-Pantry folder: [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/pantry](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/pantry). These are copyrighted books: cite them and teach from them, never paste their text into chapters. Chapter numbers below are this course's. [2026-11-17: this pantry folder is no longer at this path. See open decision 11.]
+Pantry folder: `books/agentic-filmmaking-book/pantry` (local, not on GitHub). These are copyrighted books: cite them and teach from them, never paste their text into chapters. Chapter numbers below are this course's. [2026-11-17: this pantry folder is no longer at this path. See open decision 11.]
 
 | Key | Source | What it gives the course | Chapters it feeds |
 |---|---|---|---|
@@ -144,8 +144,8 @@ Pantry folder: [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmma
 
 **Not in the pantry, but real and on disk (the AI evidence):**
 
-- Bear's rules from the real films: [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/RULES.md](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/RULES.md) (21 rules; nearly every chapter's AI half quotes one).
-- Galen's opening, folder by folder: [/Users/bear/Documents/CoWork/bear-textbooks/books/galen](/Users/bear/Documents/CoWork/bear-textbooks/books/galen). It holds:
+- Bear's rules from the real films: [RULES.md](RULES.md) (21 rules; nearly every chapter's AI half quotes one).
+- Galen's opening, folder by folder: `books/galen` (local, not on GitHub). It holds:
   - the script email and notes;
   - the ship design rounds;
   - the Aegeus stills and reference-video test;
@@ -153,7 +153,7 @@ Pantry folder: [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmma
   - the likeness test;
   - Films 1 and 2, and the two design films.
 - The agent's film-builder script (named in the box below).
-- **Skills catalog (2026-11-17):** [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/skills-catalog/README.md](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/skills-catalog/README.md). It lists 120 agent skills that do a filmmaking job, grouped by course stage, plus 33 n8n agents. They came from the auditor's ledger on the Hetzner box and from Bear's own skills, and none has been tested. It found nothing for screenplay formatting, script breakdown or budgeting, the core of Ch 1 and Ch 7.
+- **Skills catalog (2026-11-17):** [agentic-filmmaking-book/skills-catalog/README.md](https://github.com/nikbearbrown/agentic-filmmaking-book/blob/main/skills-catalog/README.md). It lists 120 agent skills that do a filmmaking job, grouped by course stage, plus 33 n8n agents. They came from the auditor's ledger on the Hetzner box and from Bear's own skills, and none has been tested. It found nothing for screenplay formatting, script breakdown or budgeting, the core of Ch 1 and Ch 7.
 
 > **Tools as of 2026-11-16** (the only place model and tool names appear in this file)
 > - **Agent:** Claude Code and Cowork, running the generation service Higgsfield through its MCP server.
@@ -162,7 +162,7 @@ Pantry folder: [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmma
 > - **Identity:** Higgsfield Soul ID (the likeness test).
 > - **Voice:** Kokoro, voice am_onyx (the "Liam" narrator).
 > - **Upscaling:** Topaz Video AI.
-> - **Assembly:** ffmpeg build scripts (Films 1 and 2) and [/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/tools/filmkit.py](/Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/tools/filmkit.py) (the two design films).
+> - **Assembly:** ffmpeg build scripts (Films 1 and 2) and [tools/filmkit.py](tools/filmkit.py) (the two design films).
 
 **Gaps the pantry cannot fill (Phase 1 research must):**
 
@@ -237,7 +237,7 @@ Most AI filmmaking courses teach tool by tool (Curious Refuge's four weeks of to
 8. **Shared core:** do the two courses share Parts II to IV? [NEEDS HUMAN INPUT]
 9. **Ch 1:** one chapter (as now), or two (the notes, then the conversion)? [NEEDS HUMAN INPUT]
 10. ***Agentic Filmmaking*:** when to revise it for the general audience, and whether Galen's film stays its running case. [NEEDS HUMAN INPUT]
-11. **Pantry:** the folder `/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/pantry`, which the 2026-11-16 plan was built from, was missing on 2026-11-17. The agent did not move or delete it, and a search of the books folder, the Trash and Spotlight did not find it. Where are the books now, and which repo should hold them? [NEEDS HUMAN INPUT]
+11. **Pantry:** the folder `books/agentic-filmmaking-book/pantry`, which the 2026-11-16 plan was built from, was missing on 2026-11-17. The agent did not move or delete it, and a search of the books folder, the Trash and Spotlight did not find it. Where are the books now, and which repo should hold them? [NEEDS HUMAN INPUT]
 
 ---
 
@@ -271,4 +271,4 @@ Most AI filmmaking courses teach tool by tool (Curious Refuge's four weeks of to
 7. **New open decisions:** the shared core, Ch 1 as one chapter or two, and when to start the AI-people edition.
 8. **Skills catalog:** Bear asked for the filmmaking skills among his agents and the Hetzner box's skills, gathered in a folder called skills. It is linked under "Not in the pantry" and from outline.md's back matter. Bear's 60 explainer, lecture and channel skills are listed in their own section, not mixed into the film stages.
 9. **Two repos (Bear's second message, 2026-11-17).** The two editions became two courses in two repos. *AI Filmmaking* is this plan, for trained filmmakers with a script, like Galen; it moved from books/agentic-filmmaking-book to books/ai-filmmaking, beside the playlist notes (README, RULES, LOCAL-TOOLS, tools/). *Agentic Filmmaking* is the general-audience course; the 2026-11-16 plan moved from ai-people-edition/ to the root of books/agentic-filmmaking-book. The words "edition", "filmmakers' edition" and "AI-people edition" above this log were changed to the course names; the log entries keep their original wording. The skills catalog stays at books/agentic-filmmaking-book/skills-catalog and serves both courses. Title decision 6 is settled; decision 11 (the missing pantry) is new.
-10. **Book and skills split (Bear, 2026-11-17):** the general-audience course's folder is now books/agentic-filmmaking-book. The name books/agentic-filmmaking is the *Agentic Filmmaking* skill repo, [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking): a guide skill plus four stage skills made from the catalog, which serve both courses. The catalog moved to books/agentic-filmmaking-book/skills-catalog. Links in this plan were updated.
+10. **Book and skills split (Bear, 2026-11-17):** the general-audience course's folder is now books/agentic-filmmaking-book. The name books/agentic-filmmaking is the *Agentic Filmmaking* skill repo, [nikbearbrown/agentic-filmmaking](https://github.com/nikbearbrown/agentic-filmmaking): a guide skill plus four stage skills made from the catalog, which serve both courses. The catalog moved to books/agentic-filmmaking-book/skills-catalog. Links in this plan were updated.

@@ -4,7 +4,7 @@
     Kept in sync with BLUEPRINT.md. Not the auto-generated EPUB TOC.
     The general-audience course, Agentic Filmmaking, has its own outline.md in books/agentic-filmmaking-book.
     Source keys (BB, BLK, KGB, TB, RMM, CG, FS, CA, VP, CR) are defined in BLUEPRINT.md, "Pantry map".
-    RULE n = /Users/bear/Documents/CoWork/bear-textbooks/books/ai-filmmaking/RULES.md
+    RULE n = RULES.md
     Model and tool names appear only inside "Tools as of" boxes.
 -->
 
@@ -17,7 +17,7 @@
 
 - **What this is:** the table of contents for *AI Filmmaking*, a self-paced online course with no fixed length: an introduction, 13 chapters in four parts, and a capstone. For each chapter it gives the sections, the pantry sources, and the exact session Galen runs where nothing has been run yet.
 - **Who it is for:** a trained filmmaker who already has a finished screenplay and is new to AI. Galen is that reader: a master's degree in film and a full script. The course is technical: how to take that screenplay and turn it into something an agent can make into a film.
-- **What changed on 2026-11-17:** the course split into two courses in two repos: *AI Filmmaking* (this one) and *Agentic Filmmaking*. This one skips teaching story, conflict and script writing, so the old Chapters 1 to 3 are now one chapter: Chapter 1, the agent's notes on a finished screenplay and its conversion into a shot table. *Agentic Filmmaking*, for a general audience without a film background, keeps those chapters; its starting outline is [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/outline.md](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/outline.md).
+- **What changed on 2026-11-17:** the course split into two courses in two repos: *AI Filmmaking* (this one) and *Agentic Filmmaking*. This one skips teaching story, conflict and script writing, so the old Chapters 1 to 3 are now one chapter: Chapter 1, the agent's notes on a finished screenplay and its conversion into a shot table. *Agentic Filmmaking*, for a general audience without a film background, keeps those chapters; its starting outline is [agentic-filmmaking-book/outline.md](https://github.com/nikbearbrown/agentic-filmmaking-book/blob/main/outline.md).
 - **How to read it:** every chapter has the same five parts.
   - *From your craft to the model* starts from what the filmmaker already knows and shows what the model needs to produce it. That means the words it follows, the words it ignores, and the job settings that carry the rest.
   - *The agent does it* is what the model does by default and how to override it.
@@ -381,4 +381,4 @@ The realistic first win is a finished opening scene that helps raise money for t
 - **Glossary:** AI terms in plain words, each beside the film term it maps to. Film terms are not taught again in this course.
 - **Templates with blanks:** shot table, look rules, cost log, budget sheet, storyboard sheet, release checklist. No finished prompts.
 - **Tools as of this edition:** all the boxes gathered, dated, and refreshed each edition.
-- **Skills that help filmmakers:** agent skills grouped by the stage they serve, from the catalog at [/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/skills-catalog/README.md](/Users/bear/Documents/CoWork/bear-textbooks/books/agentic-filmmaking-book/skills-catalog/README.md) (built 2026-11-17, nothing in it tested yet). Skill names are tool names, so they go in the dated boxes too.
+- **Skills that help filmmakers:** agent skills grouped by the stage they serve, from the catalog at [agentic-filmmaking-book/skills-catalog/README.md](https://github.com/nikbearbrown/agentic-filmmaking-book/blob/main/skills-catalog/README.md) (built 2026-11-17, nothing in it tested yet). Skill names are tool names, so they go in the dated boxes too.
